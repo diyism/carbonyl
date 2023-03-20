@@ -1,3 +1,15 @@
+in your debian PC or alpine PC or debian VPS,
+
+sudo apt install zip libnss3 libatk1.0-0 libdrm2 libxcb1libxkbcommon0 libgbm1 libx11-6 libxext6 libasound2 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libatspi2.0-0
+
+download the carbonyl.zip file, and unzip it,
+
+run: ./carbonyl/carbonyl https://youtube.com
+
+you can listen youtube music in your terminal now.
+
+offical command line: ./carbonyl/carbonyl --no-sandbox --disable-dev-shm-usage https://youtube.com
+
 <table align="center">
   <tbody>
     <tr>
