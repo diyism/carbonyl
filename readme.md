@@ -23,7 +23,7 @@
 
     new version:
     docker run -ti -e COLORTERM=24bit fathyb/carbonyl:next https://www.google.com/ncr --zoom=600 --bitmap
-    then presse "ctrl+-" 10 times to zoom-out the screen
+    then presse "ctrl+-" 10 times to zoom-out the screen to get best resolution
 
 <table align="center">
   <tbody>
