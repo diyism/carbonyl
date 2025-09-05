@@ -28,7 +28,8 @@
     $ docker run -ti -e COLORTERM=24bit fathyb/carbonyl:next https://www.google.com/ncr --zoom=600 --bitmap
     then presse "ctrl+-" 10 times to zoom-out the screen to get best resolution
 
-    # the author gives up, won't support kitty and sixel, while the timg project support kitty and it can show very clear image in kitty: ./timg-v1.6.2-x86_64.AppImage -pk a.png
+    the author gives up, won't support kitty and sixel, while the timg project support kitty 
+    and it can show very clear image in kitty: ./timg-v1.6.2-x86_64.AppImage -pk a.png
 
 <table align="center">
   <tbody>
