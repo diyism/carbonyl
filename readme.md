@@ -21,7 +21,8 @@
 
     offical command line: ./carbonyl/carbonyl --no-sandbox --disable-dev-shm-usage https://youtube.com
 
-    new version: docker run -ti -e COLORTERM=24bit fathyb/carbonyl:next https://www.google.com/ncr --zoom=600 --bitmap
+    new version:
+    docker run -ti -e COLORTERM=24bit fathyb/carbonyl:next https://www.google.com/ncr --zoom=600 --bitmap
     then presse "ctrl+-" 10 times to zoom-out the screen
 
 <table align="center">
