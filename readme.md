@@ -31,6 +31,8 @@
     the author gives up, won't support kitty and sixel, while the timg project support kitty 
     and it can show very clear image in kitty: ./timg-v1.6.2-x86_64.AppImage -pk a.png
 
+    alternatively, you can use: tight vnc server + python playwright with "--remote-debugging-port=9220" + chrome://inspect/ with "Discover network targets"
+
 <table align="center">
   <tbody>
     <tr>
